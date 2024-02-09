@@ -1002,9 +1002,15 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] [DP vs. recursive implementation (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/M999a/dp-vs-recursive-implementation)
         - [ ] [Global pairwise sequence alignment (video)](https://www.coursera.org/lecture/algorithmic-thinking-2/global-pairwise-sequence-alignment-UZ7o6)
         - [ ] [Local pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment)
-- ###  Kadane's Algorithm
+- ### IMportant leetcode
+- 
+Kadane's Algorithm
     - [Explained]https://neetcode.io/courses/advanced-algorithms/0
       [Leetcode problem ]https://leetcode.com/problems/maximum-subarray/description/
+
+Unique Paths
+https://leetcode.com/problems/unique-paths/description/
+
 - ### Design patterns
     - [ ] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
